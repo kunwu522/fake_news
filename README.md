@@ -10,3 +10,4 @@
 6. [CSI: A Hybrid Deep Model for Fake News Detection](https://arxiv.org/abs/1703.06959)
 7. [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://arxiv.org/abs/1606.09375)
 8. [Graph Convolutional Networks with EigenPooling](https://dl.acm.org/doi/pdf/10.1145/3292500.3330982?download=true)
+9. [Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations](https://arxiv.org/pdf/1901.06965.pdf) GCN as NLP classification model
