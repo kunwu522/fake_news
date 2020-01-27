@@ -1,6 +1,9 @@
 # Fake News
 ## Related work
 1. [Fake News webiste](https://www.fake-news-tutorial.com/)
+## Knowledge-Based Roadmap
+* [Detecting Check-worthy Factual Claims in Presidential Debates](https://dl.acm.org/doi/10.1145/2806416.2806652)
+* [Toward Automated Fact-Checking: Detecting Check-worthy Factual Claims by ClaimBuster](https://dl.acm.org/doi/pdf/10.1145/3097983.3098131?download=true) -- KDD 2017
 ## Reference
 1. [Fake News: A Survey of Research, Detection Methods, and Opportunities](https://arxiv.org/abs/1812.00315) -- The Survey of fake news
 2. [EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection](https://dl.acm.org/citation.cfm?id=3219819.3219903) -- Text + Image Fake News Detection
