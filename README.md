@@ -8,7 +8,7 @@
 * [A review of relational machine learning for knowledge graphs](https://arxiv.org/abs/1503.00759) -- Nickel et al. 2016
 
 ## Dataset
-* [Automatic Detection of Fake News](https://web.eecs.umich.edu/~mihalcea/papers/perezrosas.coling18.pdf) --Celebrity
+* [Automatic Detection of Fake News](https://web.eecs.umich.edu/~mihalcea/papers/perezrosas.coling18.pdf) -- Celebrity
 ## Reference
 1. [Fake News: A Survey of Research, Detection Methods, and Opportunities](https://arxiv.org/abs/1812.00315) -- The Survey of fake news
 2. [EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection](https://dl.acm.org/citation.cfm?id=3219819.3219903) -- Text + Image Fake News Detection
