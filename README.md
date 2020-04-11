@@ -1,15 +1,32 @@
 # Fake News
+
 ## Survey
 1. **Fake News: A Survey of Research, Detection Methods, and Opportunities.** Xinyi Zhou, Reza Zafarani, Kai Shu, Huan Liu. WSDM 19 [paper](https://dl.acm.org/doi/10.1145/3289600.3291382)
-## Models For Fake News
-### External Resources
-1. **dEFEND: Explainable Fake News Detection.** Kai Shu, Limeng Cui, Suhang Wang, Dongwon Lee, Huan Liu. KDD 19 [paper](https://www.kdd.org/kdd2019/accepted-papers/view/defend-explainable-fake-news-detection)
-### Including media
-1. **EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection.** Yaqing Wang ,Fenglong Ma ,Zhiwei Jin ,Ye Yuan, Guangxu Xun , Kishlay Jha , Lu Su , Jing Gao, KDD 18 [paper](https://dl.acm.org/citation.cfm?id=3219819.3219903)
-### Multi-Task Learning
-1. **Different Absorption from the Same Sharing: Sifted Multi-task Learning for Fake News Detection** Lianwei Wu, Yuan Rao, Haolin Jin, Ambreen Nazir, Ling Sun. EMNLP-IJCNLP 2019 [paper](https://www.aclweb.org/anthology/D19-1471/)
+
+## Papers For Fake News
+
+* **CSI: A Hybrid Deep Model for Fake News Detection** Natali Ruchansky, Songyong Seo, Yan Liu. CIKM 17 [paper](https://dl.acm.org/doi/10.1145/3132847.3132877)
+
+* **EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection.** Yaqing Wang ,Fenglong Ma ,Zhiwei Jin ,Ye Yuan, Guangxu Xun , Kishlay Jha , Lu Su , Jing Gao, KDD 18 [paper](https://dl.acm.org/citation.cfm?id=3219819.3219903)
+
+* **DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning.** Kashyap Popat, Subhabrata Mukherjee, Andrew Yates, Gerhard Weikum. EMNLP 18 [paper](https://www.aclweb.org/anthology/D18-1003/)
+
+* **Towards Automatic Fake News Detection: Cross-Level Stance Detection in News Articles.** Costanza Conforti, Mohammad Taher Pilehvar, Nigel Collier. EMNLP-WS 18 [paper](https://www.aclweb.org/anthology/W18-5507/)
+
+* **Belittling the Source: Trustworthiness Indicators to Obfuscate Fake News on the Web.** Diego Esteves, Aniketh Janardhan Reddy, Piyush Chawla, Jens Lehmann. EMNLP-WS 18 [paper](https://www.aclweb.org/anthology/W18-5508/)
+
+* **Stance Detection in Fake News A Combined Feature Representation.** Bilal Ghanem, Paolo Rosso, Francisco Rangel. EMNLP-WS 18 [paper](https://www.aclweb.org/anthology/W18-5510/)
+
+* **dEFEND: Explainable Fake News Detection.** Kai Shu, Limeng Cui, Suhang Wang, Dongwon Lee, Huan Liu. KDD 19 [paper](https://www.kdd.org/kdd2019/accepted-papers/view/defend-explainable-fake-news-detection)
+
+* **Different Absorption from the Same Sharing: Sifted Multi-task Learning for Fake News Detection** Lianwei Wu, Yuan Rao, Haolin Jin, Ambreen Nazir, Ling Sun. EMNLP-IJCNLP 2019 [paper](https://www.aclweb.org/anthology/D19-1471/)
+
+* **Fake News Detection using Deep Markov Random Fields.** Duc Minh Nguyen, Tien Huu Do, Robert Calderbank, Nikos Deligiannis. NAACL 19 [paper](https://www.aclweb.org/anthology/N19-1141/)
+
+
 ## Related work
 1. [Fake News webiste](https://www.fake-news-tutorial.com/)
+
 ## Knowledge-Based Roadmap
 * [Detecting Check-worthy Factual Claims in Presidential Debates](https://dl.acm.org/doi/10.1145/2806416.2806652)
 * [Toward Automated Fact-Checking: Detecting Check-worthy Factual Claims by ClaimBuster](https://dl.acm.org/doi/pdf/10.1145/3097983.3098131?download=true) -- KDD 2017
@@ -18,6 +35,7 @@
 
 ## Dataset
 * [Automatic Detection of Fake News](https://web.eecs.umich.edu/~mihalcea/papers/perezrosas.coling18.pdf) -- Celebrity
+
 ## Reference
 1. [Fake News: A Survey of Research, Detection Methods, and Opportunities](https://arxiv.org/abs/1812.00315) -- The Survey of fake news
 2. [EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection](https://dl.acm.org/citation.cfm?id=3219819.3219903) -- Text + Image Fake News Detection
