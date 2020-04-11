@@ -18,21 +18,18 @@
 * **Fake News Detection using Deep Markov Random Fields.** Duc Minh Nguyen, Tien Huu Do, Robert Calderbank, Nikos Deligiannis. NAACL 19 -- [paper](https://www.aclweb.org/anthology/N19-1141/)
 * **Learning Hierarchical Discourse-level Structure for Fake News Detection.** Hamid Karimi, Jiliang Tang. NAACL 19 -- [paper](https://www.aclweb.org/anthology/N19-1347/)
 
-## Related work
-1. [Fake News webiste](https://www.fake-news-tutorial.com/)
-
-## Knowledge-Based Roadmap
-* [Detecting Check-worthy Factual Claims in Presidential Debates](https://dl.acm.org/doi/10.1145/2806416.2806652)
-* [Toward Automated Fact-Checking: Detecting Check-worthy Factual Claims by ClaimBuster](https://dl.acm.org/doi/pdf/10.1145/3097983.3098131?download=true) -- KDD 2017
-* [Computational journalism](https://dl.acm.org/doi/10.1145/2001269.2001288) -- Cohen et al. 2011
-* [A review of relational machine learning for knowledge graphs](https://arxiv.org/abs/1503.00759) -- Nickel et al. 2016
-
 ## Dataset
 * [Automatic Detection of Fake News](https://web.eecs.umich.edu/~mihalcea/papers/perezrosas.coling18.pdf) -- Celebrity
 * [FakeNewsNet: A Data Repository with News Content, Social Context and Spatialtemporal Information for Studying Fake News on Social Media](https://arxiv.org/abs/1809.01286) -- FakeNewsNet(PolitiFact & GossipCop)
+* [MediaEval2015](http://www.multimediaeval.org/mediaeval2015/) -- [Repo](https://github.com/MKLab-ITI/image-verification-corpus/tree/master/mediaeval2015)
+
+## Related work
+1. [Fake News webiste](https://www.fake-news-tutorial.com/)
 
 ## Reference
 1. [Hierarchical Attention Networks for Document Classification](https://www.aclweb.org/anthology/P16-2034/) -- HAN
 2. [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://arxiv.org/abs/1606.09375)
 3. [Graph Convolutional Networks with EigenPooling](https://dl.acm.org/doi/pdf/10.1145/3292500.3330982?download=true)
 4. [Learning Graph Pooling and Hybrid Convolutional Operations for Text Representations](https://arxiv.org/pdf/1901.06965.pdf) GCN as NLP classification model
+5. [Toward Automated Fact-Checking: Detecting Check-worthy Factual Claims by ClaimBuster](https://dl.acm.org/doi/pdf/10.1145/3097983.3098131?download=true) -- KDD 2017
+6. [Detecting Check-worthy Factual Claims in Presidential Debates](https://dl.acm.org/doi/10.1145/2806416.2806652)
