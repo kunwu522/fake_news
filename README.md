@@ -9,6 +9,8 @@
 
 * **EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection.** Yaqing Wang ,Fenglong Ma ,Zhiwei Jin ,Ye Yuan, Guangxu Xun , Kishlay Jha , Lu Su , Jing Gao, KDD 18 [paper](https://dl.acm.org/citation.cfm?id=3219819.3219903)
 
+* **Rumor Detection on Twitter with Tree-structured Recursive Neural Networks** Jing Ma, Wei Gao, Kam-Fai Wong. ACL 18 [paper](https://www.aclweb.org/anthology/P18-1184/)
+
 * **DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning.** Kashyap Popat, Subhabrata Mukherjee, Andrew Yates, Gerhard Weikum. EMNLP 18 [paper](https://www.aclweb.org/anthology/D18-1003/)
 
 * **Towards Automatic Fake News Detection: Cross-Level Stance Detection in News Articles.** Costanza Conforti, Mohammad Taher Pilehvar, Nigel Collier. EMNLP-WS 18 [paper](https://www.aclweb.org/anthology/W18-5507/)
@@ -25,6 +27,7 @@
 
 * **Fake News Detection using Deep Markov Random Fields.** Duc Minh Nguyen, Tien Huu Do, Robert Calderbank, Nikos Deligiannis. NAACL 19 [paper](https://www.aclweb.org/anthology/N19-1141/)
 
+* **Learning Hierarchical Discourse-level Structure for Fake News Detection.** Hamid Karimi, Jiliang Tang. NAACL 19 [paper](https://www.aclweb.org/anthology/N19-1347/)
 
 ## Related work
 1. [Fake News webiste](https://www.fake-news-tutorial.com/)
