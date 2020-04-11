@@ -1,5 +1,11 @@
 # Fake News
+## Survey
+1. **Fake News: A Survey of Research, Detection Methods, and Opportunities.** Xinyi Zhou, Reza Zafarani, Kai Shu, Huan Liu. WSDM 19 [paper](https://dl.acm.org/doi/10.1145/3289600.3291382)
 ## Models For Fake News
+### External Resources
+1. **dEFEND: Explainable Fake News Detection.** Kai Shu, Limeng Cui, Suhang Wang, Dongwon Lee, Huan Liu. KDD 19 [paper](https://www.kdd.org/kdd2019/accepted-papers/view/defend-explainable-fake-news-detection)
+### Including media
+1. **EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection.** Yaqing Wang ,Fenglong Ma ,Zhiwei Jin ,Ye Yuan, Guangxu Xun , Kishlay Jha , Lu Su , Jing Gao, KDD 18 [paper](https://dl.acm.org/citation.cfm?id=3219819.3219903)
 ### Multi-Task Learning
 1. **Different Absorption from the Same Sharing: Sifted Multi-task Learning for Fake News Detection** Lianwei Wu, Yuan Rao, Haolin Jin, Ambreen Nazir, Ling Sun. EMNLP-IJCNLP 2019 [paper](https://www.aclweb.org/anthology/D19-1471/)
 ## Related work
