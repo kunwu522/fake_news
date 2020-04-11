@@ -20,8 +20,8 @@
 
 ## Dataset
 * [Automatic Detection of Fake News](https://web.eecs.umich.edu/~mihalcea/papers/perezrosas.coling18.pdf) -- Celebrity
-* [FakeNewsNet: A Data Repository with News Content, Social Context and Spatialtemporal Information for Studying Fake News on Social Media](https://arxiv.org/abs/1809.01286) -- FakeNewsNet(PolitiFact & GossipCop)
-* [MediaEval2015](http://www.multimediaeval.org/mediaeval2015/) -- [Repo](https://github.com/MKLab-ITI/image-verification-corpus/tree/master/mediaeval2015)
+* [FakeNewsNet: A Data Repository with News Content, Social Context and Spatialtemporal Information for Studying Fake News on Social Media](https://arxiv.org/abs/1809.01286)([Repo](https://github.com/KaiDMML/FakeNewsNet)) -- FakeNewsNet(PolitiFact & GossipCop)
+* [MediaEval2015](http://www.multimediaeval.org/mediaeval2015/)([Repo](https://github.com/MKLab-ITI/image-verification-corpus/tree/master/mediaeval2015)) -- EANN(Twitter)
 
 ## Related work
 1. [Fake News webiste](https://www.fake-news-tutorial.com/)
