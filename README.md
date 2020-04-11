@@ -7,6 +7,8 @@
 
 * **CSI: A Hybrid Deep Model for Fake News Detection** Natali Ruchansky, Songyong Seo, Yan Liu. CIKM 17 [paper](https://dl.acm.org/doi/10.1145/3132847.3132877)
 
+* **Early Detection of Fake News on Social Media Through Propagation Path Classification with Recurrent and Convolutional Networks** Yang Liu, Yi-Fang Brook Wu. AAAI 18 [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16826)
+
 * **EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection.** Yaqing Wang ,Fenglong Ma ,Zhiwei Jin ,Ye Yuan, Guangxu Xun , Kishlay Jha , Lu Su , Jing Gao, KDD 18 [paper](https://dl.acm.org/citation.cfm?id=3219819.3219903)
 
 * **Rumor Detection on Twitter with Tree-structured Recursive Neural Networks** Jing Ma, Wei Gao, Kam-Fai Wong. ACL 18 [paper](https://www.aclweb.org/anthology/P18-1184/)
