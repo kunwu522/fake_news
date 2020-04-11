@@ -1,4 +1,7 @@
 # Fake News
+## Models For Fake News
+### Multi-Task Learning
+1. **Different Absorption from the Same Sharing: Sifted Multi-task Learning for Fake News Detection** Lianwei Wu, Yuan Rao, Haolin Jin, Ambreen Nazir, Ling Sun. EMNLP-IJCNLP 2019[paper](https://www.aclweb.org/anthology/D19-1471/)
 ## Related work
 1. [Fake News webiste](https://www.fake-news-tutorial.com/)
 ## Knowledge-Based Roadmap
