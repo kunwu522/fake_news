@@ -5,14 +5,19 @@
 
 ## Papers For Fake News
 * **CSI: A Hybrid Deep Model for Fake News Detection** Natali Ruchansky, Songyong Seo, Yan Liu. CIKM 17 -- [paper](https://dl.acm.org/doi/10.1145/3132847.3132877)
+* **Detect Rumors in Microblog Posts Using Propagation Structure via Kernel Learning.** Jing Ma, Wei Gao, Kam-Fai Wong. ACL 17 -- [paper](https://www.aclweb.org/anthology/P17-1066/)
 * **Early Detection of Fake News on Social Media Through Propagation Path Classification with Recurrent and Convolutional Networks.** Yang Liu, Yi-Fang Brook Wu. AAAI 18 -- [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16826)
 * **EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection.** Yaqing Wang ,Fenglong Ma ,Zhiwei Jin ,Ye Yuan, Guangxu Xun , Kishlay Jha , Lu Su , Jing Gao. KDD 18 -- [paper](https://dl.acm.org/citation.cfm?id=3219819.3219903)
 * **Rumor Detection on Twitter with Tree-structured Recursive Neural Networks.** Jing Ma, Wei Gao, Kam-Fai Wong. ACL 18 -- [paper](https://www.aclweb.org/anthology/P18-1184/)
+* **A Stylometric Inquiry into Hyperpartisan and Fake News.** Martin Potthast, Johannes Kiesel, Kevin Reinartz, Janek Bevendorff, Benno Stein. ACL 18 -- [paper](https://www.aclweb.org/anthology/P18-1022/)
 * **DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning.** Kashyap Popat, Subhabrata Mukherjee, Andrew Yates, Gerhard Weikum. EMNLP 18 -- [paper](https://www.aclweb.org/anthology/D18-1003/)
 * **Towards Automatic Fake News Detection: Cross-Level Stance Detection in News Articles.** Costanza Conforti, Mohammad Taher Pilehvar, Nigel Collier. EMNLP-WS 18 -- [paper](https://www.aclweb.org/anthology/W18-5507/)
 * **Belittling the Source: Trustworthiness Indicators to Obfuscate Fake News on the Web.** Diego Esteves, Aniketh Janardhan Reddy, Piyush Chawla, Jens Lehmann. EMNLP-WS 18 -- [paper](https://www.aclweb.org/anthology/W18-5508/)
 * **Stance Detection in Fake News A Combined Feature Representation.** Bilal Ghanem, Paolo Rosso, Francisco Rangel. EMNLP-WS 18 -- [paper](https://www.aclweb.org/anthology/W18-5510/)
 * **Detect Rumor and Stance Jointly by Neural Multi-task Learning.** Jing Ma, Wei Gao, Kam-Fai Wong. WWW 18 -- [paper](https://dl.acm.org/doi/10.1145/3184558.3188729)
+* **BREAKING! Presenting Fake News Corpus for Automated Fact Checking.** Archita Pathak, Rohini Srihari. ACL 19 -- [paper](https://www.aclweb.org/anthology/P19-2050/)
+* **Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations.** Sumeet Kumar, Kathleen Carley. ACL 19 -- [paper](https://www.aclweb.org/anthology/P19-1498/)
+* **Rumor Detection by Exploiting User Credibility Information, Attention and Multi-task Learning.** Quanzhi Li, Qiong Zhang, Luo Si. ACL 19 -- [paper](https://www.aclweb.org/anthology/P19-1113/)
 * **dEFEND: Explainable Fake News Detection.** Kai Shu, Limeng Cui, Suhang Wang, Dongwon Lee, Huan Liu. KDD 19 -- [paper](https://www.kdd.org/kdd2019/accepted-papers/view/defend-explainable-fake-news-detection)
 * **Different Absorption from the Same Sharing: Sifted Multi-task Learning for Fake News Detection.** Lianwei Wu, Yuan Rao, Haolin Jin, Ambreen Nazir, Ling Sun. EMNLP-IJCNLP 2019 -- [paper](https://www.aclweb.org/anthology/D19-1471/)
 * **Fake News Detection using Deep Markov Random Fields.** Duc Minh Nguyen, Tien Huu Do, Robert Calderbank, Nikos Deligiannis. NAACL 19 -- [paper](https://www.aclweb.org/anthology/N19-1141/)
@@ -22,6 +27,7 @@
 * [Automatic Detection of Fake News](https://web.eecs.umich.edu/~mihalcea/papers/perezrosas.coling18.pdf) -- Celebrity
 * [FakeNewsNet: A Data Repository with News Content, Social Context and Spatialtemporal Information for Studying Fake News on Social Media](https://arxiv.org/abs/1809.01286) ([Repo](https://github.com/KaiDMML/FakeNewsNet)) -- FakeNewsNet(PolitiFact & GossipCop)
 * [MediaEval2015](http://www.multimediaeval.org/mediaeval2015/) ([Repo](https://github.com/MKLab-ITI/image-verification-corpus/tree/master/mediaeval2015)) -- EANN(Twitter)
+* [“Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection](https://www.aclweb.org/anthology/P17-2067/) -- ACL 17
 
 ## Related work
 1. [Fake News webiste](https://www.fake-news-tutorial.com/)
