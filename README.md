@@ -22,7 +22,7 @@
 14. **Tree LSTMs with Convolution Units to Predict Stance and Rumor Veracity in Social Media Conversations.** Sumeet Kumar, Kathleen Carley. ACL 19 -- [paper](https://www.aclweb.org/anthology/P19-1498/)
 15. **Rumor Detection by Exploiting User Credibility Information, Attention and Multi-task Learning.** Quanzhi Li, Qiong Zhang, Luo Si. ACL 19 -- [paper](https://www.aclweb.org/anthology/P19-1113/)
 16. **dEFEND: Explainable Fake News Detection.** Kai Shu, Limeng Cui, Suhang Wang, Dongwon Lee, Huan Liu. KDD 19 -- [paper](https://www.kdd.org/kdd2019/accepted-papers/view/defend-explainable-fake-news-detection)
-17 **Different Absorption from the Same Sharing: Sifted Multi-task Learning for Fake News Detection.** Lianwei Wu, Yuan Rao, Haolin Jin, Ambreen Nazir, Ling Sun. EMNLP-IJCNLP 2019 -- [paper](https://www.aclweb.org/anthology/D19-1471/)
+17. **Different Absorption from the Same Sharing: Sifted Multi-task Learning for Fake News Detection.** Lianwei Wu, Yuan Rao, Haolin Jin, Ambreen Nazir, Ling Sun. EMNLP-IJCNLP 2019 -- [paper](https://www.aclweb.org/anthology/D19-1471/)
 18. **Fake News Detection using Deep Markov Random Fields.** Duc Minh Nguyen, Tien Huu Do, Robert Calderbank, Nikos Deligiannis. NAACL 19 -- [paper](https://www.aclweb.org/anthology/N19-1141/)
 19. **Learning Hierarchical Discourse-level Structure for Fake News Detection.** Hamid Karimi, Jiliang Tang. NAACL 19 -- [paper](https://www.aclweb.org/anthology/N19-1347/)
 
