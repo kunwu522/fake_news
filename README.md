@@ -3,10 +3,10 @@
 ## Survey
 1. **Fake News: A Survey of Research, Detection Methods, and Opportunities.** Xinyi Zhou, Reza Zafarani, Kai Shu, Huan Liu. WSDM 19 -- [paper](https://dl.acm.org/doi/10.1145/3289600.3291382)
 
-## papers For Link Prediction
+## Papers for Link Prediction
 * **Link Prediction Based on Graph Neural Networks.** Muhan Zhang, Yixin Chen. NIPS 18 -- [paper](https://papers.nips.cc/paper/7763-link-prediction-based-on-graph-neural-networks)
 
-## Papers For Fake News
+## Papers for Fake News
 1. **CSI: A Hybrid Deep Model for Fake News Detection** Natali Ruchansky, Songyong Seo, Yan Liu. CIKM 17 -- [paper](https://dl.acm.org/doi/10.1145/3132847.3132877)
 2. **Detect Rumors in Microblog Posts Using Propagation Structure via Kernel Learning.** Jing Ma, Wei Gao, Kam-Fai Wong. ACL 17 -- [paper](https://www.aclweb.org/anthology/P17-1066/)
 3. **Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking.** Hannah Rashkin, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, Yejin Choi. EMNLP 17 -- [paper](https://www.aclweb.org/anthology/D17-1317/)
