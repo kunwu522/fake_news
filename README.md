@@ -6,7 +6,7 @@
 ## Papers for Link Prediction
 * **Node2vec: Scalable Feature Learning for Networks.** Aditya Grover, Jure Leskovec. KDD 16 -- [paper](https://dl.acm.org/doi/10.1145/2939672.2939754)
 * **Weisfeiler-Lehman Neural Machine for Link Prediction.** Muhan Zhang, Yixin Chen. KDD 17 -- [paper](https://dl.acm.org/doi/10.1145/3097983.3097996)
-* **Link Prediction Based on Graph Neural Networks.** Muhan Zhang, Yixin Chen. NIPS 18 -- [paper](https://papers.nips.cc/paper/7763-link-prediction-based-on-graph-neural-networks)
+* **Link Prediction Based on Graph Neural Networks.** Muhan Zhang, Yixin Chen. NIPS 18 -- [paper](https://papers.nips.cc/paper/7763-link-prediction-based-on-graph-neural-networks) [code](https://github.com/muhanzhang/SEAL)
 
 ## Papers for Fake News
 1. **CSI: A Hybrid Deep Model for Fake News Detection** Natali Ruchansky, Songyong Seo, Yan Liu. CIKM 17 -- [paper](https://dl.acm.org/doi/10.1145/3132847.3132877)
