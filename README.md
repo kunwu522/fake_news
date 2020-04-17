@@ -4,7 +4,7 @@
 1. **Fake News: A Survey of Research, Detection Methods, and Opportunities.** Xinyi Zhou, Reza Zafarani, Kai Shu, Huan Liu. WSDM 19 -- [paper](https://dl.acm.org/doi/10.1145/3289600.3291382)
 
 ## Papers for Link Prediction
-* **node2vec: Scalable Feature Learning for Networks.** Aditya Grover, Jure Leskovec. KDD 16 --[paper](https://dl.acm.org/doi/10.1145/2939672.2939754)
+* **Node2vec: Scalable Feature Learning for Networks.** Aditya Grover, Jure Leskovec. KDD 16 --[paper](https://dl.acm.org/doi/10.1145/2939672.2939754)
 * **Link Prediction Based on Graph Neural Networks.** Muhan Zhang, Yixin Chen. NIPS 18 -- [paper](https://papers.nips.cc/paper/7763-link-prediction-based-on-graph-neural-networks)
 
 ## Papers for Fake News
