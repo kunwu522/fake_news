@@ -2,6 +2,7 @@
 
 ## Survey
 1. **Fake News: A Survey of Research, Detection Methods, and Opportunities.** Xinyi Zhou, Reza Zafarani, Kai Shu, Huan Liu. WSDM 19 -- [paper](https://dl.acm.org/doi/10.1145/3289600.3291382)
+2. **A Review of Relational Machine Learning for Knowledge Graphs.** Maximilian Nickel, Kevin Murphy, Volker Tresp, Evgeniy Gabrilovich 2016 -- [paper](https://arxiv.org/abs/1503.00759)
 
 ## Papers for Link Prediction
 * **Node2vec: Scalable Feature Learning for Networks.** Aditya Grover, Jure Leskovec. KDD 16 -- [paper](https://dl.acm.org/doi/10.1145/2939672.2939754)
